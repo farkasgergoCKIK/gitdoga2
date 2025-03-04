@@ -1,2 +1,3 @@
 elsocommit (a1)
 elsőcommit (B2)
+masodikcommit (A3=fejlesztes)
