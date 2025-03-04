@@ -1,2 +1,2 @@
 elsocommit (a1)
-elsőcommit (B1)
+elsőcommit (B2)
